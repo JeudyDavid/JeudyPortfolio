@@ -312,9 +312,9 @@ body.dark-theme {
 }
 
 .home__img-bg {
-  background-color: var(--first-color);
-/*   width: 258px;
-  height: 430px; */
+  background-color: rgba(19, 96, 239, 0.02);
+  width: 258px;
+  height: 430px;
   padding-bottom: 2rem;
   display: flex;
   justify-content: center;
