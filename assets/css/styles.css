@@ -308,6 +308,7 @@ body.dark-theme {
 }
 
 .home__img {
+  max-width: 40%;
   width: 150px;
 }
 
