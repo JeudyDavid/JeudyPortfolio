@@ -187,7 +187,7 @@ body.dark-theme {
   margin: 0 auto;
   width: 67px;
   height: 1px;
-  background-color: var(--orange-couleur);
+  background-color: rgb(245,70,83);
 }
 
 /*=============== HEADER & NAV ===============*/
@@ -266,7 +266,7 @@ body.dark-theme {
 }
 
 .nav__link {
-  color: var(--orange-couleur);
+  color: rgb(245,70,83);
   font-weight: var(--font-medium);
   text-transform: uppercase;
   font-size: var(--h2-font-size);
@@ -274,7 +274,7 @@ body.dark-theme {
 }
 
 .nav__link:hover {
-  color: var(--orange-couleur);
+  color: rgb(245,70,83);
 }
 
 .nav__close {
@@ -326,7 +326,7 @@ body.dark-theme {
 
 .home__social {
   position: absolute;
-  color: var(--orange-couleur);
+  color: rgb(245,70,83);
   top: 35%;
   left: -5rem;
   transform: rotate(-90deg);
@@ -478,7 +478,7 @@ margin: 10px 0px;
 /*=============== BUTTONS ===============*/
 .button {
   display: inline-block;
-  background-color: var(--orange-couleur);
+  background-color: rgb(245,70,83);
   color: #FFF;
   padding: 1.25rem 2rem;
   font-weight: var(--font-medium);
